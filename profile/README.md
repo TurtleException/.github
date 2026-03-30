@@ -12,7 +12,7 @@
 
 💼 Employed at **Hektor + Rydzewski Bild + Ton Produktion GmbH** ([hekryd](https://github.com/hekryd) on GitHub)
 
-🧑‍💻 I primaryly develop on my [Forgejo instance](https://forge.turtle-host.de/), not GitHub
+🧑‍💻 I primarily develop on my [Forgejo instance](https://forge.turtle-host.de/), not GitHub
 
 ---
 
